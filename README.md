@@ -11,3 +11,5 @@ MNIST와 CIFAR-10 데이터셋을 활용하여 적대적 Adversarial Attacks 알
 * `requirements.txt` : 환경
 
 ## 🚀 How to Run
+
+python test.py 를 치시면 각 데이터셋 별로 4가지 공격 방법에 대한 결과표를 테이블로 볼 수 있습니다
