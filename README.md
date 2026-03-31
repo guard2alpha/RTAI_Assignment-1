@@ -9,6 +9,7 @@ MNIST와 CIFAR-10 데이터셋을 활용하여 적대적 Adversarial Attacks 알
 * `attacks.py` : 4가지 Adversarial Attack 알고리즘 구현 (Targeted/Untargeted FGSM, Targeted/Untargeted PGD)
 * `test.py` : 모델 학습, 공격 평가 실행, 결과 시각화 및 성공률을 계산하는 메인 스크립트
 * `requirements.txt` : 환경
+* `results` : adversarial attack applied images
 
 ## 🚀 How to Run
 
